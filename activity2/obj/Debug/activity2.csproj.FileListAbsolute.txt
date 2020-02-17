@@ -1,0 +1,12 @@
+C:\Users\admin.INL083\source\repos\activity2\activity2\bin\Debug\activity2.exe.config
+C:\Users\admin.INL083\source\repos\activity2\activity2\bin\Debug\activity2.exe
+C:\Users\admin.INL083\source\repos\activity2\activity2\bin\Debug\activity2.pdb
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.csprojAssemblyReference.cache
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.Form1.resources
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.Properties.Resources.resources
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.csproj.GenerateResource.cache
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.exe
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.pdb
+C:\Users\admin.INL083\source\repos\activity2\activity2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin.INL083\source\repos\activity2\activity2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin.INL083\source\repos\activity2\activity2\obj\Debug\activity2.csproj.CopyComplete
